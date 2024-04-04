@@ -1,7 +1,7 @@
 class ProductData {
   static Set cartData = {};
-  static List<Map<String, dynamic>> cartProductData = [];
-  static List<Map<String, dynamic>> allProductData = <Map<String, dynamic>>[
+  static List<Map<dynamic, dynamic>> cartProductData = [];
+  static List<Map<dynamic, dynamic>> allProductData = <Map<String, dynamic>>[
     {
       'categoryName': 'Fitness',
       'categoryProducts': [
@@ -12,6 +12,7 @@ class ProductData {
               "self-myofascial release, muscle tension and improve flexibility, release tight knots and trigger points, promoting muscle recovery, reduce muscle soreness, increase blood flow and circulation, improve overall muscle performance",
           "price": 583,
           "category": "Fitness",
+          'like': false,
           "thumbnail":
               "https://rukminim2.flixcart.com/image/416/416/xif0q/foam-roller/r/4/m/13-33-hg-blue-grid-roller-33cm-homegalley-original-imagrk8m2u7rrpkx.jpeg?q=70&crop=false",
           "images": [
@@ -27,6 +28,7 @@ class ProductData {
               "EVA PaddingEVA cushioning is one of the wrist straps' notable characteristics. This cutting-edge cushioning material will revolutionise how you work out.",
           "price": 241,
           "category": "Sports",
+          'like': false,
           "thumbnail":
               "https://rukminim2.flixcart.com/image/416/416/xif0q/support/a/m/f/both-hands-free-size-wrist-straps-for-gym-weightlifting-straps-original-imagpvyksh3jjuqz.jpeg?q=70&crop=false",
           "images": [
@@ -46,6 +48,7 @@ class ProductData {
               "Philips Hue Bridge Hue LED Smart Lights (Compatible with Amazon Alexa, Apple HomeKit, and The Google Assistant, White, Pack of 1, 929001180606, B22)",
           "price": 1670,
           "category": "Lights",
+          'like': false,
           "thumbnail":
               "https://m.media-amazon.com/images/I/51KdU217ppL._SL1080_.jpg",
           "images": [
@@ -60,6 +63,7 @@ class ProductData {
           "description":
               "Carrier 2 Ton 5 Star AI Flexicool Inverter Split AC (Copper, Convertible 6-in-1 Cooling,Dual Filtration, Auto Cleanser, 2024 Model,ESTER Exi, CAI24ES5R34F0,White)",
           "price": 3768,
+          'like': false,
           "category": "Electronics",
           "thumbnail":
               "https://m.media-amazon.com/images/I/31TUc9esRwL._SY445_SX342_QL70_FMwebp_.jpg",
@@ -77,6 +81,7 @@ class ProductData {
       'categoryProducts': [
         {
           "title": " Teady Booties ",
+          'like': false,
           "description":
               "Baby Booties For Your Little One. These Booties Are Comfortable And Has Attractive Design.These Booties Will Help In Keeping Baby'S Feet Protected In Any Season",
           "price": 179,
@@ -94,6 +99,7 @@ class ProductData {
         {
           "id": 2,
           "title": "Slip-on Clogs",
+          'like': false,
           "description":
               "These clogs are light footwear that are easy to put on and off and clogs are usually made from soft and colorful materials.",
           "price": 600,
@@ -118,6 +124,7 @@ class ProductData {
               "Hard Plastic Big Vehicle Toy for kids in multicolour Tractor with Trolley, Pack Of 1 Tractor made with Hard plastic",
           "price": 780,
           "category": "Toys",
+          'like': false,
           "thumbnail":
               "https://rukminim2.flixcart.com/image/416/416/xif0q/shopsy-vehicle-pull-along/z/4/j/big-quality-desi-tractor-layra-toys-15-original-imagvyjjshaka8zk.jpeg?q=70&crop=false",
           "images": [
@@ -133,6 +140,7 @@ class ProductData {
               "MIND SHARPENING,NON TOXIC/NON HARMFUL ,IDEAL FOR HAND EYE COORDINATION & EASY INTERLOCKING, Little kids love things bright and colorful. ",
           "price": 780,
           "category": "Toys",
+          'like': false,
           "thumbnail":
               "https://rukminim2.flixcart.com/image/416/416/kp78e4w0/block-construction/h/f/p/best-buy-happy-house-building-blocks-creative-learning-toy-original-imag3hkumzh5xmbs.jpeg?q=70&crop=false",
           "images": [
@@ -153,6 +161,7 @@ class ProductData {
           "description":
               "Stylish Brass Diamond Gold Plated Men Ring Brass Diamond Gold Plated Ring",
           "price": 1600,
+          'like': false,
           "category": 'jewellary',
           "thumbnail":
               "https://rukminim2.flixcart.com/image/832/832/kri3xjk0/ring/9/b/g/22-men-s-new-brass-golden-plated-studded-with-gems-rings-pack-of-original-imag5a2w6ghfwysk.jpeg?q=70&crop=false",
@@ -169,6 +178,7 @@ class ProductData {
               "Pink Studded Eiffel Tower Star Charms Adjustable Bracelet For Women And Girls",
           "price": 678,
           "category": "jewellary",
+          'like': false,
           "thumbnail":
               "https://rukminim2.flixcart.com/image/832/832/xif0q/bangle-bracelet-armlet/b/h/w/free-7-na-1-wb014-2001-vembley-original-imagxe5grzstzytm.jpeg?q=70&crop=false",
           "images": [
