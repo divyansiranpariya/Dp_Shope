@@ -61,3 +61,8 @@ Again to note, this is example can appear as my code for what it is - but it is 
 ![e2](https://github.com/divyansiranpariya/Dp_Shope/assets/154776848/c496c732-c592-4f11-9b34-bd050e64bd32)
 ![e3](https://github.com/divyansiranpariya/Dp_Shope/assets/154776848/17b03317-ba74-440c-b790-9c41ed5f18fe)
 ![e4](https://github.com/divyansiranpariya/Dp_Shope/assets/154776848/946baec4-68c9-4423-a897-b2634cee9e85)
+
+![e5](https://github.com/divyansiranpariya/Dp_Shope/assets/154776848/ced3a3da-ecd8-4bea-99e2-380dd05306a5)
+
+
+![e6](https://github.com/divyansiranpariya/Dp_Shope/assets/154776848/8fcadfe2-8da7-4f26-a13f-d68073024fe8)
